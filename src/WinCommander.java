@@ -56,7 +56,7 @@ public class WinCommander {
             int other = 0;
             
             String line;
-            System.out.println("Readin the input stream...");
+            System.out.println("Reading the input stream...");
             
             while((line = streamReader.readLine()) != null){
                 System.out.println(line);
@@ -70,7 +70,7 @@ public class WinCommander {
                     }
                 }
             }
-            if(pings == 1){
+            if(pings > 1){
                 System.out.println("Success!");
             } else {
                 System.out.println("Failed!");

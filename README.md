@@ -43,6 +43,7 @@ For the experiment I am using Netbeans IDE it is a Java IDE that is able to run 
 We will see each ping sent in the Console. When one server is done pinging the average will be displayed as well as the next server will be pinged.
 
 Results:
+
 ![Results](https://github.com/Ekskursantas/ServerPinging/blob/master/pings.png?raw=true?raw=true)
 
 ## Evaluation
